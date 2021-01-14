@@ -8,7 +8,7 @@ public class K8SController {
 
 
     /**
-     * k8s测试
+     * k8s测试2
      * @author lp
      * @since 2021/1/14 18:10
      **/
