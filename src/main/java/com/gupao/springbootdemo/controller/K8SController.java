@@ -7,8 +7,13 @@ import org.springframework.web.bind.annotation.RestController;
 public class K8SController {
 
 
+    /**
+     * @description  k8s测试
+     * @author lp
+     * @since 2021/1/14 18:10
+     **/
     @RequestMapping("/k8s")
     public String k8s(){
-        return "hello K8s <br/>111222 ";
+        return "hello K8s <br/>11122233 ";
     }
 }
